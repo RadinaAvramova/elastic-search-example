@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Stepan Zharychev",
-  "license": "ISC",
+  "author": "",
+  "license": "",
   "dependencies": {
     "koa": "^2.5.0",
     "koa-logger": "^3.1.0",
